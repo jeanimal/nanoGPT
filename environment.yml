@@ -113,4 +113,6 @@ dependencies:
   - yarl=1.8.1=py310hca72f7f_0
   - zlib=1.2.13=h4dc903c_0
   - zstd=1.5.2=hcb37349_0
+  - pip:
+      - tiktoken==0.3.1
 prefix: /Users/jeanwhitmore/opt/miniconda3/envs/nanogptj
